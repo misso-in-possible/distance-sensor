@@ -2,8 +2,8 @@
 #include <WiFi.h>
 #include <HTTPClient.h>
 
-const char* ssid = "RouteInn-Free";
-const char* password = "routeinn";
+const char* ssid = "xxxx";
+const char* password = "yyyyy";
 
 const int echoPin = 22;
 const int trigPin = 23;
